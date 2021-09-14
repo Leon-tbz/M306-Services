@@ -20,7 +20,7 @@ Inhaltsverzeichnis:
 1.4. Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eine
      eigene Lösungswege realisieren)
    - Anweisungen verstaendlich und nachvollziehbar
-   - Keine fertigen Loesungsschritte aufzeigen
+   - Keine fertigen Lösungsschritte aufzeigen
    - Hilfestellung (Tipps, Quellen...)
 
 1.5. Qualitätskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandos
