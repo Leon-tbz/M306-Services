@@ -23,7 +23,7 @@ Inhaltsverzeichnis:
    - Keine fertigen Loesungsschritte aufzeigen
    - Hilfestellung (Tipps, Quellen...)
 
-1.5. Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandos
+1.5. Qualitätskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandos
 	und entsprechenden Outputs)
 
 1.6. Error-Handling 
