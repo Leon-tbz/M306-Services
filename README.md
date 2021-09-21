@@ -5,7 +5,7 @@
 Inhaltsverzeichnis:
 -------------------
 
-**1.1. Autoren, Versionierung des Dokumentes
+**1.1. Autoren, Versionierung des Dokumentes**
 
 **1.2. Einführung 
    - Beschreibung: Welche Funktionen wird der Service erfüllen
