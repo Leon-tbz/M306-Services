@@ -15,6 +15,8 @@ Inhaltsverzeichnis:
    - Beschreibung: Welche Funktionen wird der Service erfüllen?
 ---
    - Webmin ist ein Verwaltungstool, um aus der Ferne oder im eigenen Netz mit Hilfe eines Webbrowsers auf verschiedene Server-Prozesse zugriff zu erhalten, die auf einem Unix Rechner laufen. Dazu zählt Hardware sowie Network traffic und Funktionen, um zumbeispiel ein AD-Server oder DHCP zu betreiben.
+ ![grafik](https://user-images.githubusercontent.com/89446419/134141687-fdfecd0b-99fe-498c-a261-ffb6c0af3c83.png)
+
 --- 
    - Vorgesehener Zeitaufwand für die Realisierung
    - Stolpersteine
