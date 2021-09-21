@@ -29,6 +29,8 @@ Inhaltsverzeichnis:
 ---
 **1.3. Benötigte Hard- und Software**
    - Hardware (Materialliste, Funktionalität)
+   
+![grafik](https://user-images.githubusercontent.com/89446419/134143802-c89b81b7-ee73-41cb-a1fd-3108142eb3b7.png)
 
 ---
    - Software (Anforderungen, Firmware, OS-Image, ergänzende SW-Packages, Ab-
