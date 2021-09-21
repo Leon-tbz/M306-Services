@@ -20,8 +20,11 @@ Inhaltsverzeichnis:
 ![grafik](https://user-images.githubusercontent.com/89446419/134141687-fdfecd0b-99fe-498c-a261-ffb6c0af3c83.png)
 
 --- 
-   - Vorgesehener Zeitaufwand für die Realisierung
-   - Stolpersteine
+   - _**Vorgesehener Zeitaufwand für die Realisierung?**_
+---
+---
+   - _**Stolpersteine?**_
+---
 ---
 **1.3. Benötigte Hard- und Software**
    - Hardware (Materialliste, Funktionalität)
