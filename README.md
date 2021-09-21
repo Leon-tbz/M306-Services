@@ -28,6 +28,8 @@ Inhaltsverzeichnis:
 ---
 **1.3. Benötigte Hard- und Software**
    - Hardware (Materialliste, Funktionalität)
+
+---
    - Software (Anforderungen, Firmware, OS-Image, ergänzende SW-Packages, Ab-
 	hängigkeiten, Funktionalität)
 
