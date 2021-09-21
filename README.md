@@ -7,30 +7,30 @@ Inhaltsverzeichnis:
 
 **1.1. Autoren, Versionierung des Dokumentes**
 
-**1.2. Einführung 
+**1.2. Einführung**
    - Beschreibung: Welche Funktionen wird der Service erfüllen
    - Vorgesehener Zeitaufwand für die Realisierung
    - Stolpersteine
 
-**1.3. Benötigte Hard- und Software
+**1.3. Benötigte Hard- und Software**
    - Hardware (Materialliste, Funktionalität)
    - Software (Anforderungen, Firmware, OS-Image, ergänzende SW-Packages, Ab-
 	hängigkeiten, Funktionalität)
 
 **1.4. Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eine
-     eigene Lösungswege realisieren)
+     eigene Lösungswege realisieren)**
    - Anweisungen verständlich und nachvollziehbar
    - Keine fertigen Lösungsschritte aufzeigen
    - Hilfestellung (Tipps, Quellen...)
 
 **1.5. Qualitätskontrolle (Prüfen der Funktionalität mit Ablauf von Kommandos
-	und entsprechenden Outputs)
+	und entsprechenden Outputs)**
 
-**1.6. Error-Handling 
+**1.6. Error-Handling **
 
-**1.7. Quellen
+**1.7. Quellen**
 
-**1.8. OpenSource Lizenz
+**1.8. OpenSource Lizenz**
 - - -
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/ch/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/ch/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/ch/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Schweiz Lizenz</a>
 
