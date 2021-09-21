@@ -7,14 +7,18 @@ Inhaltsverzeichnis:
 
 **1.1. Autoren, Versionierung des Dokumentes**
 ---
-Autor: Léon Rezek
-E-Mail: leon.rezek@edu.tbz.ch
+- Autor: Léon Rezek
+- E-Mail: leon.rezek@edu.tbz.ch
 ---
 **1.2. Einführung**
-   - Beschreibung: Welche Funktionen wird der Service erfüllen
+---
+   - Beschreibung: Welche Funktionen wird der Service erfüllen?
+---
+   - Webmin ist ein Verwaltungstool, um aus der Ferne oder im eigenen Netz mit Hilfe eines Webbrowsers auf verschiedene Server-Prozesse zugriff zu erhalten, die auf einem Unix Rechner laufen. Dazu zählt Hardware sowie Network traffic und Funktionen, um zumbeispiel ein AD-Server oder DHCP zu betreiben.
+--- 
    - Vorgesehener Zeitaufwand für die Realisierung
    - Stolpersteine
-
+---
 **1.3. Benötigte Hard- und Software**
    - Hardware (Materialliste, Funktionalität)
    - Software (Anforderungen, Firmware, OS-Image, ergänzende SW-Packages, Ab-
