@@ -9,6 +9,7 @@ Inhaltsverzeichnis:
 ---
 - Autor: Léon Rezek
 - E-Mail: leon.rezek@edu.tbz.ch
+- Version: 1.0
 ---
 **1.2. Einführung**
 ---
