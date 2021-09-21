@@ -6,7 +6,10 @@ Inhaltsverzeichnis:
 -------------------
 
 **1.1. Autoren, Versionierung des Dokumentes**
-
+---
+Autor: Léon Rezek
+E-Mail: leon.rezek@edu.tbz.ch
+---
 **1.2. Einführung**
    - Beschreibung: Welche Funktionen wird der Service erfüllen
    - Vorgesehener Zeitaufwand für die Realisierung
