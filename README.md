@@ -26,7 +26,7 @@ Inhaltsverzeichnis:
 **1.5. Qualitätskontrolle (Prüfen der Funktionalität mit Ablauf von Kommandos
 	und entsprechenden Outputs)**
 
-**1.6. Error-Handling **
+**1.6. Error-Handling**
 
 **1.7. Quellen**
 
