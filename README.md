@@ -27,18 +27,20 @@ Inhaltsverzeichnis:
 
 ---
    - _**Stolpersteine?**_
-
+    - Mögliche Stolpersteine können bei der Version des Webmins vorkommen. Allenfalls sieht das GUI anders aus, oder Funktionen wurden entfernt/verändert. 
 ---
 **1.3. Benötigte Hard- und Software**
-   - Hardware (Materialliste, Funktionalität)
+   - Hardware 
+
+1 x Raspberry PI 
+1 x Monitor (ist einfacher als verschiedene Viewer bsp. VNC)
    
 ![grafik](https://user-images.githubusercontent.com/89446419/134144125-5b10fb03-5ceb-4578-8332-85f7bd6c9756.png)
 
 ---
-   - Software (Anforderungen, Firmware, OS-Image, ergänzende SW-Packages, Ab-
-	hängigkeiten, Funktionalität)
+   - Software 
 	
-- 1 x Webmmin Version 1.881
+1 x Webmmin Version 1.881
 ---
 **1.4. Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eine
      eigene Lösungswege realisieren)**
