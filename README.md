@@ -28,7 +28,7 @@ Inhaltsverzeichnis:
 ---
    - _**Stolpersteine?**_
 ---
-    Mögliche Stolpersteine können bei der Version des Webmins vorkommen. Allenfalls wurde das GUI verändert, oder Funktionen wurden entfernt/verändert. 
+    Mögliche Stolpersteine können bei der Version des Webmins vorkommen. <br> Allenfalls wurde das GUI verändert, oder Funktionen wurden entfernt/verändert. 
     
     
 
