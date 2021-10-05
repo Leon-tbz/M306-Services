@@ -27,7 +27,7 @@ Inhaltsverzeichnis:
 
 ---
    - _**Stolpersteine?**_
-   <br>
+
     - Mögliche Stolpersteine können bei der Version des Webmins vorkommen. Allenfalls sieht das GUI anders aus, oder Funktionen wurden entfernt/verändert. 
 ---
 **1.3. Benötigte Hard- und Software**
