@@ -79,19 +79,22 @@ Beachten Sie, dass Sie die neuste Version von Webmin nehmen. Indiesem Fall insta
 
 ---
 	
-**6. Nach der Installation können sie in den Browser gehen und folgendes eingeben:**
+**6. Nach der Installation können sie mithilfe des Browsers über die IP-Adresse des Raspberry Pi's auf das Webinterface zugreifen:**
 ![grafik](https://user-images.githubusercontent.com/89446419/135974550-bd347cea-9ea6-4cc1-98de-18594b0a2e8b.png)
 
 _Die (IP-Adresse):10000_
 
 ---
 	
-**7. Nach der eingabe der IP-Adresse und dem Port: 10000 können sie sich anmelden**
+**7. Nach der eingabe der IP-Adresse und dem Port: 10000 können sie sich mit dem gesetzten Benutzername und Passwort anmelden**
 ![grafik](https://user-images.githubusercontent.com/89446419/135974583-a51d3b77-fecc-48e6-87fa-0b418976e6ec.png)
 
 ---
 
 **8. Nun haben Sie jetzt die Möglichkeit, neue Module zu installieren oder das System zu verwalten.**
+
+_Tipp: Informieren Sie sich über die Module die für Ihr System sinnvoll ist unter Folgendem Link: https://www.webmin.com/standard.html_
+
 ![grafik](https://user-images.githubusercontent.com/89446419/135974600-a3b8ece5-b61c-4608-bb98-8ecaf8c26524.png)
 
 ---
