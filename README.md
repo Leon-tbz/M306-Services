@@ -89,7 +89,6 @@ Beachten Sie, dass Sie die neuste Version von Webmin nehmen. Indiesem Fall insta
 **6. Nach der Installation können sie mithilfe des Browsers über die IP-Adresse des Raspberry Pi's auf das Webinterface zugreifen:**
 ![grafik](https://user-images.githubusercontent.com/89446419/135974550-bd347cea-9ea6-4cc1-98de-18594b0a2e8b.png)
 
-_Die (IP-Adresse):10000_
 
 ---
 	
