@@ -42,8 +42,11 @@ Inhaltsverzeichnis:
 **1.4. Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eine
      eigene Lösungswege realisieren)**
 
-**1. Geben Sie den folgenden Command in die Kommandozeile ein:**
+**1. Geben Sie den folgenden Command in die Kommandozeile ein, um die Minimale Version auf Sourge-Forge herunterzuladen und zu installieren:**
 ![grafik](https://user-images.githubusercontent.com/89446419/135974375-4e51f98f-4f35-48b0-97cc-deb828099f42.png)
+
+Hier finden Sie die einzelnen Versionen:
+https://sourceforge.net/projects/webadmin/files/webmin
 
 **2. Installation von der minimalen Version.**
 ![grafik](https://user-images.githubusercontent.com/89446419/135974406-dd5159d5-a97d-4ee2-9f0f-3bb685cc5e0c.png)
