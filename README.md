@@ -114,6 +114,13 @@ Nach der Installation der beiden Perl libraries sollte folgenden Output erschein
 
 ![grafik](https://user-images.githubusercontent.com/89446419/135980857-c84ce78b-b1b0-4a0a-ab3f-2671f8e62502.png)
 
+Testen Sie zudem folgende Commands, um den webminstatus zu überprüfen:
+
+Abfrage des Status von Webmin: sudo service webmin status
+Webmin starten: sudo /etc/webmin/start
+Webmin stoppen: sudo service webmin stop
+Webmin neustarten: sudo service webmin restart
+
 **1.6. Error-Handling**
 
 **1.7. Quellen**
