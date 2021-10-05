@@ -23,12 +23,12 @@ Inhaltsverzeichnis:
 --- 
    - _**Vorgesehener Zeitaufwand für die Realisierung?**_
 ---
-    - Die Umsetzung dauert etwa 30 Minuten. 
+    Die Umsetzung dauert etwa 30 Minuten. 
 
 ---
    - _**Stolpersteine?**_
 ---
-    - Mögliche Stolpersteine können bei der Version des Webmins vorkommen. Allenfalls wurde das GUI verändert, oder Funktionen wurden entfernt/verändert. 
+    Mögliche Stolpersteine können bei der Version des Webmins vorkommen. Allenfalls wurde das GUI verändert, oder Funktionen wurden entfernt/verändert. 
     
     
 
