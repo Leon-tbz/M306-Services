@@ -38,13 +38,13 @@ Inhaltsverzeichnis:
 
 1 x Raspberry PI 
 1 x Monitor (ist einfacher als verschiedene Viewer bsp. VNC)
-   
-![grafik](https://user-images.githubusercontent.com/89446419/134144125-5b10fb03-5ceb-4578-8332-85f7bd6c9756.png)
+1 x 
 
 ---
    - Software 
 	
 1 x Webmmin Version 1.881
+1 x Putty oder VNC Viewer
 ---
 **1.4. Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eine
      eigene Lösungswege realisieren)**
