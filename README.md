@@ -79,10 +79,8 @@ Beachten Sie, dass Sie die neuste Version von Webmin nehmen. Indiesem Fall insta
 
 ---
 	
-**5. Nun sollte folgendes Fenster erscheinen. Danach können sie alles mit der Enter Taste auf Default lassen und am Schluss einen Benutzer mit Passwort 	erstellen**
+**5. Nun sollte das Setup starten. Bei den Eingaben kann man alles auf Default lassen, jedoch sollte ein Username und Passwort eingegeben werden.**
 
-![grafik](https://user-images.githubusercontent.com/89446419/135974496-805dd2df-d60c-4bc7-b091-bdf156cf5c13.png)
-![grafik](https://user-images.githubusercontent.com/89446419/135974526-526295be-cd72-403c-a94f-611e0bb271b5.png)
 
 ---
 	
@@ -94,8 +92,6 @@ Beachten Sie, dass Sie die neuste Version von Webmin nehmen. Indiesem Fall insta
 	
 **7. Nach der eingabe der IP-Adresse und dem Port: 10000 können sie sich mit dem gesetzten Benutzername und Passwort anmelden**
 
-
-![grafik](https://user-images.githubusercontent.com/89446419/135974583-a51d3b77-fecc-48e6-87fa-0b418976e6ec.png)
 
 ---
 
