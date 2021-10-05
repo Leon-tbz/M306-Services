@@ -124,7 +124,11 @@ Webmin stoppen: sudo service webmin stop
 
 Webmin neustarten: sudo service webmin restart
 
+---
+
 **1.6. Error-Handling**
+
+---
 
 **1.7. Quellen**
 
@@ -135,6 +139,8 @@ Webmin Software: http://prdownloads.sourceforge.net/webadmin/webmin-1.881-minima
 VNC Viewer: https://www.realvnc.com/de/connect/download/viewer/
 
 Putty: https://www.putty.org/
+
+---
 
 **1.8. OpenSource Lizenz**
 - - -
