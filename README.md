@@ -7,8 +7,8 @@ Inhaltsverzeichnis:
 
 **1.1. Autoren, Versionierung des Dokumentes**
 ---
-- Autor: Léon Rezek
-- E-Mail: leon.rezek@edu.tbz.ch
+- Autoren: Léon Rezek, Noah Lennemann
+- E-Mail: leon.rezek@edu.tbz.ch, noah.lennemann@edu.tbz.ch
 - Version: 1.0
 ---
 **1.2. Einführung**
