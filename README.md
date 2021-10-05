@@ -71,12 +71,11 @@ Beachten Sie, dass Sie die neuste Version von Webmin nehmen. Indiesem Fall insta
 
 ---
 	
-**3. Entpacken Sie den installierten Ordner mit Hilfe vom Befehl: tar :**
+**3. Entpacken Sie den installierten Ordner mit Hilfe vom Befehl: tar**
 
 ---
 	
-**4. Jetzt können sie in das entsprechende Verzeichnis gehen und folgenden Befehl eingeben:**
-![grafik](https://user-images.githubusercontent.com/89446419/135974459-30d705f6-8682-4b04-bd7e-3a6fbdcbe514.png)
+**4. Jetzt können sie in das entsprechende Verzeichnis gehen das Setup starten**
 
 ---
 	
