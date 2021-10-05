@@ -44,8 +44,10 @@ Inhaltsverzeichnis:
 
 **1. Geben Sie den folgenden Command in die Kommandozeile ein, um die Minimale Version auf Sourge-Forge herunterzuladen und zu installieren:**
 
+![grafik](https://user-images.githubusercontent.com/89446419/135976542-15868acf-0729-4833-9636-141dc78255d3.png)
 
-![grafik](https://user-images.githubusercontent.com/89446419/135974375-4e51f98f-4f35-48b0-97cc-deb828099f42.png)
+_Tipp: Falls sie mit diesem Befehl die ausgewählte Version nicht installieren können, haben Sie villeicht keine Berrechtigung.
+Finden Sie heraus wie man mit hilfe eines Befehls, höhere Rechte erhaltet._
 
 Hier finden Sie die einzelnen Versionen:
 https://sourceforge.net/projects/webadmin/files/webmin
