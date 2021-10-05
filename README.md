@@ -71,7 +71,7 @@ Beachten Sie, dass Sie die neuste Version von Webmin nehmen. Indiesem Fall insta
 
 ---
 	
-**3. Entpacken Sie den installierten Ordner mit folgendem Befehl:**
+**3. Entpacken Sie den installierten Ordner mit Hilfe von Befehl :**
 ![grafik](https://user-images.githubusercontent.com/89446419/135974445-28d2e969-4645-418f-b13b-3876f8fa2f1c.png)
 
 ---
@@ -130,7 +130,7 @@ Webmin neustarten: sudo service webmin restart
 
 ---
 
-**1.7. Quellen**
+**1.7. Quellenverzeichnis**
 
 Webmin Logo: https://user-images.githubusercontent.com/89446419/134141687-fdfecd0b-99fe-498c-a261-ffb6c0af3c83.png
 
