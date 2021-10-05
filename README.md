@@ -71,7 +71,7 @@ Beachten Sie, dass Sie die neuste Version von Webmin nehmen. Indiesem Fall insta
 
 ---
 	
-**3. Entpacken Sie den installierten Ordner mit Hilfe von Befehl :**
+**3. Entpacken Sie den installierten Ordner mit Hilfe vom Befehl: tar :**
 ![grafik](https://user-images.githubusercontent.com/89446419/135974445-28d2e969-4645-418f-b13b-3876f8fa2f1c.png)
 
 ---
