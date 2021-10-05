@@ -38,7 +38,8 @@ Inhaltsverzeichnis:
 
 1 x Raspberry PI 
 1 x Monitor (ist einfacher als verschiedene Viewer bsp. VNC)
-1 x 
+1 x SD Karte 8 GB
+1 x Netzwerkkabel ca. 1 Meter
 
 ---
    - Software 
