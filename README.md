@@ -129,7 +129,7 @@ Webmin neustarten: sudo service webmin restart
 
 ---
 
-Wenn Probleme auftauchen, wird die Hilfe schnell via Google gefunden. Ansonsten Herrn Calisto fragen oder das klassische Rebooten :-)
+Wenn Probleme auftauchen, wird die Hilfe schnell via Google gefunden. Ansonsten Herrn Calisto fragen oder das klassische Rebooten versuchen :-)
 
 ---
 
