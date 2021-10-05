@@ -102,7 +102,7 @@ _Die (IP-Adresse):10000_
 
 **8. Nun haben Sie jetzt die Möglichkeit, neue Module zu installieren oder das System zu verwalten.**
 
-_Tipp: Informieren Sie sich über die Module die für Ihr System sinnvoll ist unter Folgendem Link: https://www.webmin.com/standard.html_
+_Tipp: Informieren Sie sich über die Module die für Ihr System sinnvoll sind unter dem Folgendem Link: https://www.webmin.com/standard.html_
 
 ![grafik](https://user-images.githubusercontent.com/89446419/135974600-a3b8ece5-b61c-4608-bb98-8ecaf8c26524.png)
 
