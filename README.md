@@ -130,6 +130,12 @@ Webmin neustarten: sudo service webmin restart
 
 Webmin Logo: https://user-images.githubusercontent.com/89446419/134141687-fdfecd0b-99fe-498c-a261-ffb6c0af3c83.png
 
+Webmin Software: http://prdownloads.sourceforge.net/webadmin/webmin-1.881-minimal.tar.gz
+
+VNC Viewer: https://www.realvnc.com/de/connect/download/viewer/
+
+Putty: https://www.putty.org/
+
 **1.8. OpenSource Lizenz**
 - - -
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/ch/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/ch/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/ch/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Schweiz Lizenz</a>
