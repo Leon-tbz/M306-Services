@@ -9,7 +9,7 @@ Inhaltsverzeichnis:
 ---
 - Autoren: Léon Rezek, Noah Lennemann
 - E-Mail: leon.rezek@edu.tbz.ch, noah.lennemann@edu.tbz.ch
-- Version: 1.0
+- Version: 1.3
 ---
 **1.2. Einführung**
 ---
@@ -27,6 +27,7 @@ Inhaltsverzeichnis:
 
 ---
    - _**Stolpersteine?**_
+   <br>
     - Mögliche Stolpersteine können bei der Version des Webmins vorkommen. Allenfalls sieht das GUI anders aus, oder Funktionen wurden entfernt/verändert. 
 ---
 **1.3. Benötigte Hard- und Software**
