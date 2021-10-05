@@ -103,7 +103,13 @@ _Tipp: Informieren Sie sich über die Module die für Ihr System sinnvoll ist un
 
 **1.6. Error-Handling**
 
+Nach der Installation der beiden Perl libraries sollte folgenden Output erscheinen, der den Status der Installation anzeigt:
+
+![grafik](https://user-images.githubusercontent.com/89446419/135980857-c84ce78b-b1b0-4a0a-ab3f-2671f8e62502.png)
+
 **1.7. Quellen**
+
+Webmin Logo: https://user-images.githubusercontent.com/89446419/134141687-fdfecd0b-99fe-498c-a261-ffb6c0af3c83.png
 
 **1.8. OpenSource Lizenz**
 - - -
