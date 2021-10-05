@@ -38,12 +38,9 @@ Inhaltsverzeichnis:
 	hängigkeiten, Funktionalität)
 	
 - 1 x Webmmin Version 1.881
-
+---
 **1.4. Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eine
      eigene Lösungswege realisieren)**
-   - Anweisungen verständlich und nachvollziehbar
-   - Keine fertigen Lösungsschritte aufzeigen
-   - Hilfestellung (Tipps, Quellen...)
 
 **1. Geben Sie den folgenden Command in die Kommandozeile ein:**
 ![grafik](https://user-images.githubusercontent.com/89446419/135974375-4e51f98f-4f35-48b0-97cc-deb828099f42.png)
@@ -58,6 +55,7 @@ Inhaltsverzeichnis:
 ![grafik](https://user-images.githubusercontent.com/89446419/135974459-30d705f6-8682-4b04-bd7e-3a6fbdcbe514.png)
 	
 **5. Nun sollte folgendes Fenster erscheinen. Danach können sie alles mit der Enter Taste auf Default lassen und am Schluss einen Benutzer mit Passwort 	erstellen**
+
 ![grafik](https://user-images.githubusercontent.com/89446419/135974496-805dd2df-d60c-4bc7-b091-bdf156cf5c13.png)
 ![grafik](https://user-images.githubusercontent.com/89446419/135974526-526295be-cd72-403c-a94f-611e0bb271b5.png)
 	
@@ -72,9 +70,7 @@ _Die (IP-Adresse):10000_
 **8. Nun haben Sie jetzt die Möglichkeit, neue Module zu installieren oder das System zu verwalten.**
 ![grafik](https://user-images.githubusercontent.com/89446419/135974600-a3b8ece5-b61c-4608-bb98-8ecaf8c26524.png)
 
-![Uploading grafik.png…]()
-
-
+---
 **1.5. Qualitätskontrolle (Prüfen der Funktionalität mit Ablauf von Kommandos
 	und entsprechenden Outputs)**
 
