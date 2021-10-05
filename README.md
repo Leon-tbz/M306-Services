@@ -101,11 +101,11 @@ _Tipp: Informieren Sie sich über die Module die für Ihr System sinnvoll ist un
 **1.5. Qualitätskontrolle (Prüfen der Funktionalität mit Ablauf von Kommandos
 	und entsprechenden Outputs)**
 
-**1.6. Error-Handling**
-
 Nach der Installation der beiden Perl libraries sollte folgenden Output erscheinen, der den Status der Installation anzeigt:
 
 ![grafik](https://user-images.githubusercontent.com/89446419/135980857-c84ce78b-b1b0-4a0a-ab3f-2671f8e62502.png)
+
+**1.6. Error-Handling**
 
 **1.7. Quellen**
 
