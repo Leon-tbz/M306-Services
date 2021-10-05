@@ -129,6 +129,9 @@ Webmin neustarten: sudo service webmin restart
 
 ---
 
+Wenn Probleme auftauchen, wird die Hilfe schnell via Google gefunden. Ansonsten Herrn Calisto fragen oder das klassische Rebooten :-)
+
+
 **1.7. Quellenverzeichnis**
 
 Webmin Logo: https://user-images.githubusercontent.com/89446419/134141687-fdfecd0b-99fe-498c-a261-ffb6c0af3c83.png
