@@ -44,7 +44,7 @@ Inhaltsverzeichnis:
 ---
    - Software 
 	
-1 x Webmmin Version 1.881
+1 x Webmin Version 1.881 <br>
 1 x Putty oder VNC Viewer
 
 ---
