@@ -46,7 +46,7 @@ Inhaltsverzeichnis:
 
 ![grafik](https://user-images.githubusercontent.com/89446419/135976542-15868acf-0729-4833-9636-141dc78255d3.png)
 
-_Tipp: Falls sie mit diesem Befehl die ausgewählte Version nicht installieren können, haben Sie villeicht keine Berrechtigung.
+_Tipp: Falls sie mit diesem Befehl die ausgewählte Version nicht installieren können, haben Sie vielleicht keine Berrechtigung.
 Finden Sie heraus wie man mit hilfe eines Befehls, höhere Rechte erhaltet._
 
 Hier finden Sie die einzelnen Versionen:
