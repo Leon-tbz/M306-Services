@@ -90,12 +90,12 @@ Beachten Sie, dass Sie die neuste Version von Webmin nehmen. Indiesem Fall insta
 
 ---
 	
-**7. Nach der eingabe der IP-Adresse und dem Port: 10000 können sie sich mit dem gesetzten Benutzername und Passwort anmelden**
+**7. Nach der Eingabe der IP-Adresse und dem Port: 10000 können sie sich mit dem gesetzten Benutzername und Passwort anmelden**
 
 
 ---
 
-**8. Nun haben Sie jetzt die Möglichkeit, neue Module zu installieren oder das System zu verwalten.**
+**8. Nun haben Sie die Möglichkeit, neue Module zu installieren oder das System zu verwalten.**
 
 _Tipp: Informieren Sie sich über die Module die für Ihr System sinnvoll sind unter dem Folgendem Link: https://www.webmin.com/standard.html_
 
