@@ -27,7 +27,7 @@ Inhaltsverzeichnis:
 
 ---
    - _**Stolpersteine?**_
----
+
 ---
 **1.3. Benötigte Hard- und Software**
    - Hardware (Materialliste, Funktionalität)
