@@ -75,7 +75,7 @@ Beachten Sie, dass Sie die neuste Version von Webmin nehmen. Indiesem Fall insta
 
 ---
 	
-**4. Jetzt können sie in das entsprechende Verzeichnis gehen das Setup starten**
+**4. Jetzt können sie in das entsprechende Verzeichnis wechseln und das Setup starten**
 
 ---
 	
