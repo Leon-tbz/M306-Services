@@ -23,6 +23,7 @@ Inhaltsverzeichnis:
 --- 
    - _**Vorgesehener Zeitaufwand für die Realisierung?**_
 ---
+    - Die Umsetzung dauert etwa 30 Minuten. 
 
 ---
    - _**Stolpersteine?**_
