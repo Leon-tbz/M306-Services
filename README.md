@@ -36,10 +36,10 @@ Inhaltsverzeichnis:
 **1.3. Benötigte Hard- und Software**
    - Hardware 
 
-1 x Raspberry PI 
-1 x Monitor (ist einfacher als verschiedene Viewer bsp. VNC)
-1 x SD Karte 8 GB
-1 x Netzwerkkabel ca. 1 Meter
+1 x Raspberry PI mindestens PI 4 <br>
+1 x Monitor (ist einfacher als verschiedene Viewer bsp. VNC) <br>
+1 x SD Karte 8 GB <br>
+1 x Netzwerkkabel ca. 1 Meter <br>
 
 ---
    - Software 
